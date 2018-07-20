@@ -15,6 +15,16 @@ html {
     font-size: 1em;
     line-height: 1.4;
 }
+.header{
+	background-color: #3c3c50;
+}
+.pragraph{
+	padding-top: 34px;
+	color: white;
+}
+footer{
+	background-color: cornflowerblue;
+}
 
 
 
