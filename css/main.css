@@ -22,20 +22,13 @@ html {
 	padding-top: 34px;
 	color: white;
 }
-h3{
-	text-align: center;
-}
-h5{
-	padding-left: 70px;
-}
+
 footer{
-	background-color: cornflowerblue;
+	background-color: #3c3c50;
 }
-
-
-
-
-
+.medal,h3{
+	padding-top: 30px;
+}
 
 
 
