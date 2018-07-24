@@ -33,13 +33,21 @@ footer{
 .medal,h3{
 	padding-top: 30px;
 }
-
+img{
+	padding: 0;
+}
 
 /*Small devices (landscape phones, 576px and up)*/
 
 @media (max-width: 576px) {
 	.slide{
 		display: none;
+	}
+	footer{
+		text-align: center;
+	}
+	img{
+		padding-left: 20px;
 	}
 }
 
