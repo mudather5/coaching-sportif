@@ -15,6 +15,46 @@ html {
     font-size: 1em;
     line-height: 1.4;
 }
+<<<<<<< HEAD
+.header{
+	background-color: #3c3c50;
+}
+.pragraph{
+	padding-top: 34px;
+	color: white;
+}
+
+.slide{
+	width: 100%;
+}
+
+footer{
+	background-color: #3c3c50;
+}
+.medal,h3{
+	padding-top: 30px;
+}
+img{
+	padding: 0;
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+
+@media (max-width: 576px) {
+	.slide{
+		display: none;
+	}
+	footer{
+		text-align: center;
+	}
+	img{
+		padding-left: 20px;
+	}
+}
+
+
+
+=======
 
 
 
@@ -24,6 +64,7 @@ body{
 
 }
 .header{
+>>>>>>> master
 
 
 
